@@ -25,3 +25,6 @@ To enhance the interpretability of results, the notebook includes a visualizatio
 
 Overall, this notebook provides a comprehensive walkthrough of formulating, solving, and analyzing a linear programming problem. By integrating Python libraries for optimization, data handling, and visualization, it showcases a practical approach to operations research and decision science. The step-by-step structure—from problem definition and constraints to solving and interpretation—demonstrates effective use of Jupyter Notebook for modeling and solving real-world optimization problems.
 
+#OUTPUT
+
+<img width="1156" height="758" alt="Image" src="https://github.com/user-attachments/assets/9c1d093f-8cef-42d8-a3e9-da7d38f512ca" />
